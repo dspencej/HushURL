@@ -1,6 +1,7 @@
 HushURL: Covert Channel Communication through URL Shorteners via Short Message Service (SMS)
 
 Sam Mason, Rebecca Mattie, Patrick Sacchet, and Dustin Spencer
+
 Johns Hopkins University, Whiting School of Engineering, Maryland, US
 22 August 2023
 
