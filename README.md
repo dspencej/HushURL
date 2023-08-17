@@ -7,17 +7,16 @@ Johns Hopkins University, Whiting School of Engineering, Maryland, US
 
 HushURL
 
-HushURL is an innovative Android application designed to enable covert communication through URL shorteners using the Short Message Service (SMS). Developed by a team of researchers and engineers from Johns Hopkins University's Whiting School of Engineering, HushURL showcases the unique capability of sending and receiving SMS messages while leveraging the inherent anonymity of URL shorteners. This cutting-edge technology opens up new possibilities for discreet information exchange.
+HushURL is an innovative Android application designed to enable covert communication through URL shorteners using the Short Message Service (SMS). Developed by a team of researchers and engineers from Johns Hopkins University's Whiting School of Engineering, HushURL showcases the unique capability of sending and receiving SMS messages while leveraging the inherent anonymity of URL shorteners.
 
 Key Features
 
-- **Covert Communication:** HushURL facilitates hidden communication by embedding messages within SMS messages sent via URL shorteners.
-- **Message Metadata Display:** The application offers comprehensive message metadata, including originating address, timestamp, protocol, and display originating address.
+- **Covert Communication:** HushURL facilitates hidden communication by embedding messages within shortned URLs.
 - **User-Friendly Interface:** With a simple and intuitive interface, users can seamlessly engage in covert communication without the need for advanced technical skills.
 
 Prerequisites
 
-To utilize HushURL, you need an Android device or emulator running Android OS version X.X or higher.
+To utilize HushURL, you need an Android device or emulator running Android OS version 12 or higher.
 
 Permissions:
 
